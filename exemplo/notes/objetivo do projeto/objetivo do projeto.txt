@@ -1,0 +1,5 @@
+Pedir a idade do usuário
+Checar se ele é maior de idade (tem 18 anos ou mais)
+Se ele for maior de idade informar que ele é um adulto
+Caso contrário informar que ele é criança
+Fazer este processo apenas uma vez quando o jogo inicia
