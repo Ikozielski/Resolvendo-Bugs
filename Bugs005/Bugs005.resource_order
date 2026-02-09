@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_morte","order":1,"path":"objects/obj_morte/obj_morte.yy",},
+    {"name":"obj_vitoria","order":2,"path":"objects/obj_vitoria/obj_vitoria.yy",},
+    {"name":"spr_morte","order":1,"path":"sprites/spr_morte/spr_morte.yy",},
+    {"name":"spr_vitoria","order":2,"path":"sprites/spr_vitoria/spr_vitoria.yy",},
+  ],
+}
